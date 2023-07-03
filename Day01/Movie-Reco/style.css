@@ -1,3 +1,20 @@
-.action {
+body {
+    background-color: #3F6699;
+    color: aliceblue;
+}
+
+action {
     background-color: bisque;
+}
+h2 {
+    background-color: #0D1B4C;
+    color: #78C2C3;
+}
+div {
+    background: fixed;
+    background-color: #F3ECC8;  
+    color: #0D1B4C;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
