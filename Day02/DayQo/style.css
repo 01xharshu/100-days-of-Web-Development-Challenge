@@ -1,3 +1,9 @@
 body {
     background-color: antiquewhite;
 }
+button {
+    background-color: green;
+    color: aliceblue;
+    height: 10%;
+    width: 10%;
+}
